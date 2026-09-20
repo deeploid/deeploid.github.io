@@ -73,6 +73,7 @@ h2 {
 p { margin: 0 0 12px; }
 .interests { color: var(--muted); }
 .more { color: var(--muted); font-size: 15px; }
+.fn { color: var(--muted); font-size: 14px; margin-bottom: 4px; }
 
 /* Publications */
 
