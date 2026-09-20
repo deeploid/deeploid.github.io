@@ -82,6 +82,19 @@ ul.pubs li { margin-bottom: 16px; }
 .pub-authors { color: var(--muted); font-size: 15px; }
 .pub-venue { color: var(--muted); font-size: 15px; font-style: italic; }
 .award { color: #b3541e; font-style: normal; font-weight: 600; }
+.first-author {
+  display: inline-block;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  color: #0b5fff;
+  background: #e8efff;
+  border-radius: 999px;
+  padding: 1px 10px;
+  margin-left: 6px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
 
 /* Models */
 
