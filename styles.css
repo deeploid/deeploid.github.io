@@ -82,7 +82,7 @@ ul.pubs li { margin-bottom: 16px; }
 .pub-authors { color: var(--muted); font-size: 15px; }
 .pub-venue { color: var(--muted); font-size: 15px; font-style: italic; }
 .award { color: #b3541e; font-style: normal; font-weight: 600; }
-.first-author {
+.badge {
   display: inline-block;
   font-size: 12px;
   font-style: normal;
